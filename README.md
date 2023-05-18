@@ -1,15 +1,9 @@
 ## Olá! Eu sou o Eugênio G. Diniz 🖐️
 
-[![Blog](https://img.shields.io/website?label=SujeitoProgramador.com&style=for-the-badge&url=https://sujeitoprogramador.com/)](https://sujeitoprogramador.com)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/sujeitoprogramador)
-
 <div>
   <img  height="180em" src="https://github-readme-stats.vercel.app/api?username=eugeniogdiniz&show_icons=true&theme=great-gatsby&include_all_commits=true&count_private=true"/>
-  <img align="right" height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eugeniogdiniz&layout=compact&langs_count=16&theme=great-gatsby"/>
 </div>
 <br>
-
-[![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=eugeniogdiniz)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Tecnologias que eu uso no meu dia
 
