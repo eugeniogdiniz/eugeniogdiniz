@@ -27,5 +27,6 @@
 Apaixonado por tecnologia, educação e por mudar a vida das pessoas através da programação.
 
 ### Linguagens mais usadas:
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eugeniogdiniz)](https://github.com/eugeniogdiniz/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eugeniogdiniz)](https://github.com/anuraghazra/github-readme-stats)
+
 
