@@ -1,6 +1,7 @@
 ## Olá! Eu sou o Eugênio G. Diniz 🖐️
 
 <div>
+  <a href="https://github.com/eugeniogdiniz">
   <img  height="180em" src="https://github-readme-stats.vercel.app/api?username=eugeniogdiniz&show_icons=true&theme=great-gatsby&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eugeniogdiniz&layout=compact&langs_count=7&theme=dark"/>
 </div>
@@ -31,11 +32,11 @@ Apaixonado por tecnologia, educação e por mudar a vida das pessoas através da
 ### Linguagens mais usadas:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eugeniogdiniz)](https://github.com/eugeniogdiniz/github-readme-stats)
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/eugeniogdiniz/eugeniogdiniz/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/eugeniogdiniz/eugeniogdiniz/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/eugeniogdiniz/eugeniogdiniz/output/github-contribution-grid-snake.svg">
-</picture>
+</div>
+ 
+  ![Snake animation](https://github.com/eugeniogdiniz/eugeniogdiniz/blob/output/github-contribution-grid-snake.svg)
+ 
+</div>
 
 _generated with [Platane/snk](https://github.com/Platane/snk)_
 
