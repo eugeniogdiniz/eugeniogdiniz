@@ -31,4 +31,6 @@ Apaixonado por tecnologia, educação e por mudar a vida das pessoas através da
 ### Linguagens mais usadas:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eugeniogdiniz)](https://github.com/eugeniogdiniz/github-readme-stats)
 
+![Snake animation](https://github.com/LuigiGF/LuigiGF/blob/output/github-contribution-grid-snake.svg)
+
 
