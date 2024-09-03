@@ -2,9 +2,9 @@
 
 <div>
   <a href="https://github.com/eugeniogdiniz">
-  <img  height="180em" src="https://github-readme-stats.vercel.app/api?username=eugeniogdiniz&show_icons=true&theme=great-gatsby&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eugeniogdiniz&layout=compact&langs_count=7&theme=dark"/>
-</div>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=eugeniogdiniz&show_icons=true&theme=tokyonight&include_all_commits=true&rank_icon=github"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eugeniogdiniz&layout=compact&langs_counts=2&theme=tokyonight"/>
+<div>  
 <br>
 
 ## Tecnologias que eu uso no meu dia
