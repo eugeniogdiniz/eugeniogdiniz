@@ -29,9 +29,6 @@
 
 Apaixonado por tecnologia, educação e por mudar a vida das pessoas através da programação.
 
-### Linguagens mais usadas:
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eugeniogdiniz)](https://github.com/eugeniogdiniz/github-readme-stats)
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/eugeniogdiniz/eugeniogdiniz/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/eugeniogdiniz/eugeniogdiniz/output/github-contribution-grid-snake.svg">
